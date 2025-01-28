@@ -1,3 +1,2 @@
-{% include some_file.html %}
 title: My Portfolio
-remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-MINIMA
